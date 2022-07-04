@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Katyura</h1>
-<h3 align="center">A passionate Software Developer [Machine Learning Engineer] from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer / Data Scientist from India</h3>
 <h2> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height='30px'></h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
